@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+#audio {
+  visibility: hidden;
+}
+
+.card {
+  padding: 20px;
+  margin-top:50px;
+}
+
+.btn {
+  margin-top: 15px;
+}
